@@ -1,5 +1,5 @@
 # Docker-outside-of-Docker (DooD) with Jenkins
-![Uploading image.png…]()
+<img width="891" height="379" alt="dood" src="https://github.com/user-attachments/assets/bb55cfd0-391c-4da4-86fe-3564987b3134" />
 
 If you've ever needed a containerized application to build or run other Docker containers — a CI server, an automation agent, a deployment tool, you've probably run into a strange requirement: **a container that needs to talk to Docker itself.**
 
